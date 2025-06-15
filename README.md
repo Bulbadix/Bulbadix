@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **Bulbadix/Bulbadix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 # 👋 Hello, I’m a PLC Engineer!
 
@@ -31,4 +31,5 @@ Here are some ideas to get you started:
 ---
 
 > "Still trying to convince the PLC that the fan is not optional."
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bulbadix&show_icons=true&theme=tokyonight)
 
