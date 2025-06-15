@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 💬 Ask me about Siemens TIA Portal, Modbus, and coffee machine PLCs.
 
 ## 🛠️ Tech Stack
-- 💻 PLC: Siemens, Allen-Bradley, Schneider
+- 💻 PLC: Siemens, Schneider
 - 🌡️ HVAC Protocols: BACnet, Modbus RTU/TCP
 - 🔄 SCADA: WinCC, Ignition
 - 🐍 Scripting: Python for data logging and simulation
